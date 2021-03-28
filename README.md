@@ -22,8 +22,16 @@
 ## Images of Scenes
 
 ### Home
+![home](home.PNG)
+
+### Loading
+![loading](loading.PNG)
 
 ### Game Scene
+![level1](GameScene.PNG)
 
 ### Game Over 
+![gameOver](GameOver.PNG)
+
+### Win 
 ![gameOver](GameOver.PNG)
