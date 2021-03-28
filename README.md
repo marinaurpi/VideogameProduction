@@ -4,10 +4,18 @@
 **Link to play the game: [pac-nurse](https://editor.p5js.org/marinaurpi267/full/NOSOekFOf)**
 
 
-## Videogame Description
+## Gameplay
 
+### Goals
+* Beat your own high score
+* Get all the masks to level up
+* Get the vaccines to be able to beat the viruses
+* Pass third level and win the game
 
-## Game Mechanics
+### Difficulties
+* Virus speed
+* Random movement of the virus
+* Beat your own high score
 
 
 ## Pac-Nurse's Assets
