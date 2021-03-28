@@ -7,12 +7,12 @@
 
 ## Gameplay
 *Pac-Nurse* is a game based on the original game *PAC-MAN*. I wanted to make a game that shaped our global situation, the pandemic. I thought it was a good choice to star a nurse and put Covid-19 as the antagonist. Masks help you to raise your score as a metaphor of our actual situation. Our bonus is a vaccine that gives you enough power to kill the virus.
-* On the main page, we have to press **ENTER** to access level 1.
+* On the main page, we have to press ENTER to access level 1.
 * We have to use arrows from our keyboard to move us around.
 * You must get all masks spread across the game board to pass to the next level. Some virus will be going around there and if they touch you… **GAME OVER**
 * Every time you get a vaccine you have the choice to kill the virus and get easily more masks.
 * You can raise your score with every mask you get and every virus you kill.
-* There are 3 levels, each one more difficult than the previous one, and when you pass the last one you win the game.
+* There are 3 levels, each one more difficult than the previous one, and when you pass the last one you **WIN** the game.
 
 ### Goals
 * Beat your own high score
