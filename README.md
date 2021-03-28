@@ -12,11 +12,33 @@
 
 ## Pac-Nurse's Assets
 
-### Images
+* **Images**
+  * block.png
+  * loading.gif
+  * mascara.svg
+  * nurse.png
+  * vacuna.png
+  * virus.png
 
-### Music
+* **Audio**
+  * aplausos.mp3
+  * enemyDead.mp3
+  * gameOver.mp3
+  * levelup.mp3
+  * power.mp3
+  * resistire.mp3
 
-### Files
+* **Files**
+  * virusTime.json
+  * index.html
+  * sketch.js
+  * style.css
+  * enemy.js
+  * nurse.js
+  * gameOver.js
+  * levelup.js
+  * start.js
+  * win.js
 
 
 ## Images of Scenes
@@ -34,4 +56,4 @@
 ![gameOver](GameOver.PNG)
 
 ### Win 
-![gameOver](GameOver.PNG)
+![win](win.PNG)
